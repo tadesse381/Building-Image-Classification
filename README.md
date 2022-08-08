@@ -1,4 +1,4 @@
-# Image Recognition (Classification) using CNN
+# Image Recognition (Classification) Using CNN
 Image recognition refers to the task of inputting an image into a neural network and
 having it output some kind of label for that image. The label that the network outputs
 will correspond to a pre-defined class. There can be multiple classes that the image can
